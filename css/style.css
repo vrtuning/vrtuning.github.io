@@ -1,0 +1,18 @@
+.my-gallery {
+  width: 100%;
+ float: left;
+}
+.my-gallery img {
+  width: 100%;
+  height: auto; }
+.my-gallery figure {
+  display: block;
+ float: left;
+  margin: 2px 3px 3px 2px;
+  width: 19%; 
+}
+.my-gallery figcaption {
+  display: none;
+}
+.center-gallery	{ margin: auto; max-width: 100%;
+}
